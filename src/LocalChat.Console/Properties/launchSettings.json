@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LocalChat.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "--Port=8181"
+    }
+  }
+}
